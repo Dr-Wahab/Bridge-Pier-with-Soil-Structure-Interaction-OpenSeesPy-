@@ -148,7 +148,7 @@ This repository is provided under the [LICENSE NAME] license. (Replace with your
 Acknowledge funding, collaborators, or data sources here.
 
 ## Contact
-For questions or contributions, open an issue or contact: Dr-Wahab (GitHub: @Dr-Wahab). Provide an email address if you wish to receive direct correspondence.
+For questions or contributions, open an issue or contact: Dr-Wahab (GitHub: @Dr-Wahab).
 
 ## Appendix: Common OpenSeesPy snippets
 Model initialization and basic commands:
